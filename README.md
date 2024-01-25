@@ -1,6 +1,6 @@
 Hi, je me prénomme Serge ! 
 
-J'ai obtenu en 2012 mon diplôme (B. Sc.) en Information Management. 
+Je détiens un diplôme (B. Sc.) en Information Management. 
 Tout au long de mon parcours professionnel j'ai développé une passion pour l'analyse des données 
 afin d'y ressortir des informations pertinentes au bénéfice des Directions opérationnelles et/ou du Top Management 
 mais aussi pour garantir une optimisation des processus métiers. 
