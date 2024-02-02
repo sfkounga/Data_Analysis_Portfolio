@@ -11,13 +11,13 @@ Hi, je me prénomme <strong><ins>Serge</ins></strong> !
 </p>
 
 <p>
-Je détiens un diplôme <strong>(B. Sc.) en Information Management</strong> . 
+Je détiens un diplôme <strong><ins>(B. Sc.) en Information Management</ins></strong>. 
 Tout au long de mon parcours universitaire et professionnel j'ai développé une passion pour l'analyse des données, afin d'y ressortir des informations pertinentes au bénéfice des Directions opérationnelles et/ou du Top Management mais aussi pour garantir une optimisation des processus métiers. 
 </p>
 
 <p>
 Je suis enthousiaste à l'idée d'apporter mes compétences techniques et analytiques 
-au domaine de l'analyse et de la science des données en tant que <strong>Data Analyst Senior</strong>.
+au domaine de l'analyse et de la science des données en tant que <strong><ins>Senior Data Analyst</ins></strong>.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ et je suis toujours à la recherche de nouvelles opportunités pour élargir mes
 </p>
 
 <p>
-<strong>Dans ce Repository je partage un ensemble de projets personnels en lien avec l'analyse des données.</strong> 
+<strong><ins>Dans ce Repository je partage un ensemble de projets personnels en lien avec l'analyse des données.</ins></strong> 
 </p>
   </body>
 </html>
