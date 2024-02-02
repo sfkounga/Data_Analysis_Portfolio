@@ -41,4 +41,4 @@ Mon CV en ![PDF][CV]</br>
 
 <!-- internal Links -->
 
-[cv1]: (https://github.com/sfkounga/Data_Analysis_Portfolio/blob/main/Files/Serge_Kounga_Data_Analyst.pdf)https://github.com/sfkounga/Data_Analysis_Portfolio/blob/main/Files/Serge_Kounga_Data_Analyst.pdf
+[cv1]: https://github.com/sfkounga/Data_Analysis_Portfolio/blob/main/Files/Serge_Kounga_Data_Analyst.pdf
