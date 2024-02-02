@@ -37,5 +37,5 @@ Mon CV en ![PDF][CV]</br>
 
 
 <!-- Links -->
-[CV]: Files/Serge_Kounga_Data_Analyst.PDF
+[CV]: Annexes/Serge_Kounga_Data_Analyst.PDF
 
