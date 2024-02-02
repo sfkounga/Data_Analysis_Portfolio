@@ -26,7 +26,7 @@ et je suis toujours à la recherche de nouvelles opportunités pour élargir mes
 </p>
 
 
-Mon CV en ![PDF][CV]</br>
+Mon CV en [PDF][CV]</br>
 
 
 <p>
