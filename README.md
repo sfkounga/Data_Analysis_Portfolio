@@ -7,7 +7,7 @@
 
   <body>
 <p>
-Hi, je me prénomme <strong><font color="green">Serge</font></strong> ! 
+Hi, je me prénomme <strong><ins>Serge</ins></strong> ! 
 </p>
 
 <p>
