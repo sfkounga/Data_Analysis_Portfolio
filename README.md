@@ -26,7 +26,17 @@ et je suis toujours à la recherche de nouvelles opportunités pour élargir mes
 </p>
 
 <p>
+Mon CV en [PDF][CV]
+</p>
+
+<p>
 <strong><ins>Dans ce Repository je partage un ensemble de projets personnels en lien avec l'analyse des données.</ins></strong> 
 </p>
   </body>
 </html>
+
+
+<!-- Links -->
+
+
+[CV]: Files/Serge Kounga___Data Analyst.pdf
