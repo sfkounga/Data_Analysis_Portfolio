@@ -2,16 +2,12 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-    </head>
-  
-  <body>
-    <p>Nous avons utilisé la balise &lt;strong&gt;, pour mettre en évidence <strong> cet important fragment du texte</strong>.</p>
-  </body>
-</html>
+  <head>
+  </head>
+
   <body>
 <p>
-Hi, je me prénomme <strong>Serge</strong> ! 
+Hi, je me prénomme <font color="#151B54"><strong>Serge</strong></font> ! 
 </p>
 
 <p>
