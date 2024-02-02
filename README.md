@@ -37,6 +37,4 @@ Mon CV en [PDF][CV]
 
 
 <!-- Links -->
-
-
-[CV]: Files/Serge Kounga___Data Analyst.pdf
+[CV]: Files/Serge_Kounga_Data_Analyst.PDF
