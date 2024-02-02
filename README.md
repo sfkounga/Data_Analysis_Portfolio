@@ -25,9 +25,9 @@ Pendant mon temps libre, j'aime explorer différent(e)s outils et techniques d'a
 et je suis toujours à la recherche de nouvelles opportunités pour élargir mes connaissances et mes compétences. 
 </p>
 
-<p>
+
 Mon CV en [PDF][cv1]</br>
-</p>
+
 
 <p>
 <strong><ins>Dans ce Repository je partage un ensemble de projets personnels en lien avec l'analyse des données.</ins></strong> 
