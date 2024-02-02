@@ -26,7 +26,7 @@ et je suis toujours à la recherche de nouvelles opportunités pour élargir mes
 </p>
 
 <p>
-Mon CV en ![PDF][CV]</br>
+Mon CV en ![PDF][cv1]</br>
 </p>
 
 <p>
@@ -38,3 +38,7 @@ Mon CV en ![PDF][CV]</br>
 
 <!-- Links -->
 [CV]: Files/Serge_Kounga_Data_Analyst.PDF
+
+<!-- internal Links -->
+
+[cv1]: (https://github.com/sfkounga/Data_Analysis_Portfolio/blob/main/Files/Serge_Kounga_Data_Analyst.pdf)https://github.com/sfkounga/Data_Analysis_Portfolio/blob/main/Files/Serge_Kounga_Data_Analyst.pdf
